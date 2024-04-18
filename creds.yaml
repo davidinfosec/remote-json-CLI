@@ -1,0 +1,7 @@
+# FTP credentials
+server: ftp.example.com
+username: your_username
+password: your_password
+
+# Path to the JSON file on the FTP server
+filepath: /path/to/json/file.json
