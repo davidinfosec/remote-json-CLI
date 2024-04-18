@@ -15,7 +15,7 @@ The Remote JSON Editor is a Python script that allows users to remotely edit a J
 ## How to Use
 
 1. Clone the repository to your local machine.
-2. Update the FTP server credentials and JSON file path in the script (`remotejson.py`) to match your setup.
+2. Update the FTP server credentials and JSON file path in the `creds.yaml` file to match your setup.
 3. Run the script using Python: `python remotejson.py`.
 4. Follow the on-screen instructions to add, remove, or list tools within the JSON file.
 
